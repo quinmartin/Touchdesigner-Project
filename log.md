@@ -9,3 +9,5 @@
 - 09/20/2026: Figured out how to use Claude Code in my terminal and getting pretty comfortable using it. I kind of hate the fact that I am using AI to do all this work for me, but it is pretty cool learning what it can do. I am currently downloading the Node install so that I can connect an MCP to TD, hopefully it will be done downloading after the Chiefs game so I can try some stuff out. I added a Concepts.md file for my recent homework, and excited to talk these over and try some stuff out. If all goes good with this project, I might be able to sell this to some sports teams! This might be it for today (depending on when this thing downloads) but we'll see if I get back to it
 
 - 09/21/2026: today I connected Claude to Touchdesigner and made my first mini project. I made it shoot lazers out of my eyes (even though it doesn't work great) It keeps regestering my nostrails as eyeballs and there's lazers shooting everywhere. Happy that it worked though
+
+![lazer eyes](images/lazer-eyes.png)
