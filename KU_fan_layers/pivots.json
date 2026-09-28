@@ -1,0 +1,140 @@
+{
+  "fan1_tall_brunette_male": {
+    "canvas": [
+      1000,
+      1400
+    ],
+    "scale": 1.0,
+    "left_shoulder_pivot_px": [
+      317.0,
+      700.0
+    ],
+    "right_shoulder_pivot_px": [
+      683.0,
+      700.0
+    ],
+    "both_arms_pivot_px": [
+      500.0,
+      700.0
+    ],
+    "neck_pivot_px": [
+      500.0,
+      560.0
+    ]
+  },
+  "fan2_curly_black_hair_female": {
+    "canvas": [
+      1000,
+      1400
+    ],
+    "scale": 0.93,
+    "left_shoulder_pivot_px": [
+      360.5,
+      749.0
+    ],
+    "right_shoulder_pivot_px": [
+      639.5,
+      749.0
+    ],
+    "both_arms_pivot_px": [
+      500.0,
+      749.0
+    ],
+    "neck_pivot_px": [
+      500.0,
+      618.8
+    ]
+  },
+  "fan3_short_bearded_male": {
+    "canvas": [
+      1000,
+      1400
+    ],
+    "scale": 0.86,
+    "left_shoulder_pivot_px": [
+      342.6,
+      798.0
+    ],
+    "right_shoulder_pivot_px": [
+      657.4,
+      798.0
+    ],
+    "both_arms_pivot_px": [
+      500.0,
+      798.0
+    ],
+    "neck_pivot_px": [
+      500.0,
+      677.6
+    ]
+  },
+  "fan4_twists_male": {
+    "canvas": [
+      1000,
+      1400
+    ],
+    "scale": 0.94,
+    "left_shoulder_pivot_px": [
+      328.0,
+      742.0
+    ],
+    "right_shoulder_pivot_px": [
+      672.0,
+      742.0
+    ],
+    "both_arms_pivot_px": [
+      500.0,
+      742.0
+    ],
+    "neck_pivot_px": [
+      500.0,
+      610.4
+    ]
+  },
+  "fan5_blonde_female": {
+    "canvas": [
+      1000,
+      1400
+    ],
+    "scale": 0.93,
+    "left_shoulder_pivot_px": [
+      360.5,
+      749.0
+    ],
+    "right_shoulder_pivot_px": [
+      639.5,
+      749.0
+    ],
+    "both_arms_pivot_px": [
+      500.0,
+      749.0
+    ],
+    "neck_pivot_px": [
+      500.0,
+      618.8
+    ]
+  },
+  "fan6_blonde_male": {
+    "canvas": [
+      1000,
+      1400
+    ],
+    "scale": 0.95,
+    "left_shoulder_pivot_px": [
+      326.1,
+      735.0
+    ],
+    "right_shoulder_pivot_px": [
+      673.9,
+      735.0
+    ],
+    "both_arms_pivot_px": [
+      500.0,
+      735.0
+    ],
+    "neck_pivot_px": [
+      500.0,
+      602.0
+    ]
+  }
+}

@@ -427,3 +427,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# macOS
+.DS_Store
+
+# MediaPipe tracker: keep the scripts, skip the virtualenv and the files it
+# rewrites every frame while running
+td_mediapipe_env/*
+!td_mediapipe_env/pose_tracker.py
+!td_mediapipe_env/hand_face_tracker.py
