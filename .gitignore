@@ -436,3 +436,4 @@ FodyWeavers.xsd
 td_mediapipe_env/*
 !td_mediapipe_env/pose_tracker.py
 !td_mediapipe_env/hand_face_tracker.py
+!td_mediapipe_env/run_tracker.bat
