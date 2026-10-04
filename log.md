@@ -17,3 +17,7 @@
 09/30/2026 I have tried and tried, but I KEEP getting the Vulkan and Fatal errors on my project. It is litterally so annoying. I think my computer just can not run touchdesigner anymore, I'm pretty sure the problem lays within my GPU graphics card. I am so sorry I'm not going to have anything for class, but trust it was running fine before it started tweaking out. I'm mad I didn't get any photos or videos of it working, but I will attach a photo that shows a tiny corner of it along with the errors that won't let it work. I am going to go into the Chalmer's computer lab this weekend to see if I can get it to work on another computer. If not, I have no idea what I'm going to do. The screenshot is called "ERRORS SS"
 
 10/4/2026 GREAT news - I got everything running on my Alienware computer and everything is working right where I left it off. I didn't have to start all over with a new file - I just opened my previous ones and re-connected everything. This is a life saver tbh, I thought I was cooked. So lesson learned: don't try to run TD on my baby macbook lol. I should've known this from when I tried running blender on it. so, my next step is to do user testing on people and figure out if there's anything I need to fix before class Monday. I am going to work on another project for a bit, but get back to this tonight. PRAISE THE ALIENWARE
+
+![working file](working%20file%201.png)
+
+[Screen recording of it working](working%20file%20recording.mp4)
