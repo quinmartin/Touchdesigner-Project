@@ -25,3 +25,5 @@
 10/7/2026
 
 ![cutout update](images/cutout-update.png)
+
+10/7/2026 I DID IT!! Project is fully working, along with some new changes (for the better). I added some abstract fans to the background that jump around whenever you wave the wheat, which really gives the entire screen some more personality and makes the stadium look full. One thing Claude did was make them wave their hands IN SYNC AS WELL with the use, which is pretty cool. I also updated the cutout of the user so it's crisper and more clean. I am excited to show this project off, especially with how far I've come from the computer crashing. See you on the flip!
