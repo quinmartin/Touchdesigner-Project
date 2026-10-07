@@ -113,6 +113,10 @@ class TDFrameSource:
 
 
 def main():
+    # TD kills whatever PID is in here before launching a new tracker, so a relaunch (or
+    # a project reload) can't leave two trackers fighting over the same output files
+    with open(os.path.join(HERE, "tracker.pid"), "w") as f:
+        f.write(str(os.getpid()))
     cv2.setNumThreads(1)
     use_camera = "--camera" in sys.argv
     source = CameraSource() if use_camera else TDFrameSource()
@@ -125,11 +129,13 @@ def main():
           "- writing pose data to", TRACKING_FILE, flush=True)
 
     with mp_pose.Pose(static_image_mode=False, model_complexity=0, smooth_landmarks=True,
-                      enable_segmentation=True, smooth_segmentation=True,
+                      # the mask only roughs out where the user is (TD keys the sharp edge
+                      # itself), so skip temporal smoothing - it made the mask trail behind
+                      enable_segmentation=True, smooth_segmentation=False,
                       min_detection_confidence=0.6, min_tracking_confidence=0.5) as pose:
 
         last_print = time.time()
-        target_interval = 1.0 / 20.0  # cap at ~20fps to leave CPU headroom for TD
+        target_interval = 1.0 / 30.0  # TD sends ~30 frames a second; keep up with them
 
         while True:
             loop_start = time.time()

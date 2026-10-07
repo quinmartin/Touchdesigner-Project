@@ -21,3 +21,7 @@
 ![working file](working%20file%201.png)
 
 [Screen recording of it working](working%20file%20recording.mp4)
+
+10/7/2026
+
+![cutout update](images/cutout-update.png)

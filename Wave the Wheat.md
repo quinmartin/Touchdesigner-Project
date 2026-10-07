@@ -19,3 +19,9 @@ keeping the fans in place, add a football stadium seating section into the backg
 
 PROMPT 5
 A few more changes - I added the song file "University of Kansas Fight Song - I'm a Jayhawk" to the Touchdesigner-Project file. Everytime the user raises their hands above their shoulders and triggers the Touchdown animation, I want that song to start playing. there are a couple seconds of silence at the beginning of the song - trim those and make the music start playing immediately. also, in the background of the video behind the stadium, make red and blue fireworks start going off eveytime the Touchdown animation is triggered 
+
+PROMPT 6
+I want you to fill the background stands with fans. the bg fans should be much more abstract than the fans in the front row. they should be made out of simple geometric shapes. make sure they are all wearing red, white, or blue, and vary their skin tones. make the bg fans still whenever the user's arms are down, and jump around / wiggle whenever the user's arms are up / touchdown animation is triggered. 
+
+PROMPT 7
+can you fix the cutout clipping of the user? the cutout it super laggy, delays behind, the user's movements, jumps around the outline, and is very feathered out / not sharp. I want the cutout to be a sharp outline of the user, and show everything on their body that's in front of the screen
